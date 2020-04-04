@@ -13,4 +13,5 @@ while email != "":
         email = input("Email: ")
     email = input("Email: ")
 for email, name in name_email.items():
-    print("{}: {}".format(name,email) )
+    print("{}: {}".format(name, email))
+
